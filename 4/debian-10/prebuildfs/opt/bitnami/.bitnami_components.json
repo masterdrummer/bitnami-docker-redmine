@@ -39,7 +39,7 @@
         "digest": "aa85db57a30d79ac61743dffac4b1cbdc58b7736ffbffd873ed32248b07f9e51",
         "distro": "debian-10",
         "type": "NAMI",
-        "version": "2.6.8-1"
+        "version": "2.7.4-1"
     },
     "yq": {
         "arch": "amd64",
